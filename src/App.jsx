@@ -1,4 +1,4 @@
-import { Filter, Numbers, PersonForm } from "./components";
+import { Filter, Numbers, PersonForm, DeleteButton } from "./components";
 import { useFormFilter, usePersons, useForm } from "./hooks";
 
 const App = () => {
